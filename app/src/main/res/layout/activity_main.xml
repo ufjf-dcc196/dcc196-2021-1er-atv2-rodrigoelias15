@@ -32,10 +32,11 @@
 
     <ScrollView
         style="@android:style/Widget.ScrollView"
-        android:layout_width="340dp"
-        android:layout_height="476dp"
+        android:layout_width="343dp"
+        android:layout_height="390dp"
         android:layout_marginTop="16dp"
         android:layout_marginBottom="16dp"
+        android:visibility="visible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/textView"
         app:layout_constraintHorizontal_bias="0.0"
